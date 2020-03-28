@@ -1,0 +1,10 @@
+body {
+    padding: 4rem;
+    background: gray;
+}
+
+svg {
+    border: 2px dashed black;
+    height: 500px;
+    width: 500px;
+}
