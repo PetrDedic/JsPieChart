@@ -9,7 +9,7 @@ function Sektor(selector, options) {
     size: 100,
     stroke: 10,
     arc: false,
-    angle: 225,
+    angle: 45,
     sectorColor: '#789',
     circleColor: '#DDD',
     fillCircle: true
